@@ -10,6 +10,7 @@ cd dist
 cp index.html ../connextcms-vue-app/keystone/templates/views/appdashboard.hbs
 cd static
 mkdir ../../connextcms-vue-app/public
+mkdir ../../connextcms-vue-app/public/static
 cp -r css ../../connextcms-vue-app/public/static/css
 cp -r img ../../connextcms-vue-app/public/static/img
 cp -r js ../../connextcms-vue-app/public/static/js
