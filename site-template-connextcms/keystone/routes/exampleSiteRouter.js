@@ -12,6 +12,7 @@ module.exports = function(app) {
 
   // Keystone Views
   app.get('/test', routes.views.test);
+  app.get('/app-dashboard', routes.views.app-dashboard);
   
   // Plugin API Route
   app.get('/api/exampleapi/list', keystone.middleware.api, routes.api.exampleapi.list);
