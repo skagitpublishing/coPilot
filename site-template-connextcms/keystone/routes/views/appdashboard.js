@@ -11,9 +11,9 @@ exports = module.exports = function(req, res) {
         locals.superusers = keystone.get('superusers');
   
         // Set locals
-        locals.section = 'app-dashboard';
+        locals.section = 'appdashboard';
 
         // Render the view
-        view.render('app-dashboard', {layout: false});
+        view.render('appdashboard', {layout: false});
 
 };
