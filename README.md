@@ -27,6 +27,8 @@ npm run connextcms
 A site template will now exist in the `connextcms-vue-app` directory. Copy this directory
 to the `theme` directory of your [docker-connextcms](https://github.com/skagitpublishing/docker-connextcms) installation. 
 
+You can bring up the application by navigating to the `/appdashboard` path of your server.
+
 
 License
 -------
