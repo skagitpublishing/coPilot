@@ -2,6 +2,10 @@ This repository is a slightly modified version of [CoPilot](https://github.com/m
 to generate a [site template](https://github.com/skagitpublishing/site-template-connextcms) for 
 [ConnextCMS](http://connextcms.com).
 
+**Note:** This repository is obsolete. It was forked from CoPilot in order to customize and test, but
+this repository has been replaced by the [vue-connextcms-site-template](https://github.com/skagitpublishing/vue-connextcms-site-template)
+repository.
+
 
 Installation
 ------------
